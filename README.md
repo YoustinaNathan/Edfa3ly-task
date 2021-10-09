@@ -11,3 +11,4 @@ Then: the result will immediatly show for you, after that you can filter the res
 #there should be a rating stars in every card, i wrote the code but there something not right, and i can't figure it out. and a clear buttom should be included in every filter
 but the time is limited.
 
+#this project is working well. you only need to include node_modules to it.
