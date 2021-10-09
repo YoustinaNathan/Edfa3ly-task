@@ -3,7 +3,13 @@ import axios from 'axios';
 import Range from "react-range";
 
 import 'react-pro-sidebar/dist/css/styles.css';
+<<<<<<< HEAD
 
+=======
+//import { ProSidebar, SidebarHeader, SidebarContent, Menu, MenuItem, SubMenu  } from 'react-pro-sidebar';
+
+
+>>>>>>> 4cdbfd2eb03499da17935eb4ba4673d0a32573b5
 import './app.css';
 
 class App extends Component {
