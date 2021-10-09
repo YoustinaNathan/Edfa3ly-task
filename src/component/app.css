@@ -1,0 +1,41 @@
+.container-fluid{
+    background-color:  rgba(220, 220, 220, 0.11);
+    margin-top: -10px;
+}
+.title h1{
+    padding-top: 30px;
+    font-family: sans-serif;
+}
+.card{
+    border-radius: 10px;    
+}
+.card:hover{
+    border-bottom: 2px solid rgba(223, 188, 223, 0.47);
+    border-right: 2px solid rgba(223, 188, 223, 0.47);
+}
+.form-check-input:checked{
+    color: brown;
+}
+.slider{
+    margin-left: 10px ;
+    padding: 10px;
+    background-color: whitesmoke;
+    border-bottom: 2px solid #DBD8D8;
+    border-right: 2px solid #DBD8D8;
+    border-radius: 10px;
+
+}
+.slider-title{
+    font-weight: bold; 
+}
+.priceTitle, .colorTilte, .rateTilte{
+    font-weight: bold;
+}
+.card-name{
+    font-weight: bold;
+    color: darkslategrey;
+    font-family: serif;
+}
+.card-price{
+    color: gray;
+}
